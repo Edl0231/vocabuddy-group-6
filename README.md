@@ -1,2 +1,2 @@
 # vocabuddy-group-6
-YTP2026HW1
+組員：許庭誠、廖宥翔、彭耀霆
